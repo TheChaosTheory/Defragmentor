@@ -6,7 +6,7 @@ public class Defragment implements DefragmenterInterface {
 	private ArraySortedList IDList;
 	private ArraySortedList CompletedList;
 	private int[] CompletedIDs;
-
+	private String jon = "I am a Test";
 	public Defragment(){
 		IDList = new ArraySortedList();
 		CompletedList = new ArraySortedList();
