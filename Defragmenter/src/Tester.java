@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Tester
 {
+	//TestMain
 
-	//test Of God And His Skills
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		FileReader file = new FileReader("Input.txt");
