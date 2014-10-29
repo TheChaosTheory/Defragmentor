@@ -4,11 +4,12 @@ import java.util.Scanner;
 
 public class Tester
 {
-	//TestMain
+	//TestMain Of Gods Right Hand
 
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		FileReader file = new FileReader("Input.txt");
+		@SuppressWarnings("resource")
 		Scanner tokenizer = new Scanner(file);
 		int id    = -1;
 		int offset  = 0;
