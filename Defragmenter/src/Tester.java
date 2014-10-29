@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Tester
 {
-	//Test
 
+	//test Of God And His Skills
 	public static void main(String[] args) throws FileNotFoundException
 	{
 		FileReader file = new FileReader("Input.txt");
@@ -39,7 +39,7 @@ public class Tester
 			hd.addFrag(id, offset, length, more);
 
 		}while(tokenizer.hasNext());
-		
+		//THIS MIGHT WORK
 		
 		System.out.println(hd);
 
