@@ -4,14 +4,11 @@ import java.util.Scanner;
 
 public class Tester
 {
-	//TestMain Of Gods Right Hand
-	//If This Works I am a god
-	//Ouch
-	//DANIEL IF YOU CAN READ THIS IT WORKS
+
 
 	public static void main(String[] args) throws FileNotFoundException
 	{
-		FileReader file = new FileReader("/Users/Daniel/git/Defragmentor/Defragmenter/Input.txt");
+		FileReader file = new FileReader("C:/Users/Brian/git/Defragmentorq/Defragmenter/Input.txt");
 		@SuppressWarnings("resource")
 		Scanner tokenizer = new Scanner(file);
 		int id    = -1;
