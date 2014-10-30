@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Tester
 {
 	//TestMain Of Gods Right Hand
+	//If This Works I am a god
 
 	public static void main(String[] args) throws FileNotFoundException
 	{
