@@ -8,7 +8,7 @@ public class Tester
 
 	public static void main(String[] args) throws FileNotFoundException
 	{
-		FileReader file = new FileReader("/home/tom/git/Defragmentor/Defragmenter/Input.txt");
+		FileReader file = new FileReader("/Users/Daniel/git/Defragmentor/Defragmenter/Input.txt");
 		@SuppressWarnings("resource")
 		Scanner tokenizer = new Scanner(file);
 		int id    = -1;
